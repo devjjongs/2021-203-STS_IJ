@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Academy-Spring" />
+        <module name="2021-203-STS_IJ" />
       </profile>
     </annotationProcessing>
   </component>
