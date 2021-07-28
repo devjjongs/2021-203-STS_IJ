@@ -4,6 +4,6 @@
     <title>Title</title>
 </head>
 <body>
-<h3>지금 시간은 ${data} 입니다 </h3>
+<h3>오늘은 ${data} 입니다 </h3>
 </body>
 </html>
