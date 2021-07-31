@@ -1,4 +1,4 @@
-package spring_test.controller;
+package com.bit.hello.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
